@@ -243,12 +243,14 @@ footer {
 .contact input[type="text"],
 input[type="email"],
 textarea {
+    color: white;
     margin-bottom: 24px;
     border: 1px solid white;
     width: 50%;
     padding: 18px 30px;
     border-radius: 5px;
     background: #151414
+
 }
 
 .contact a {
