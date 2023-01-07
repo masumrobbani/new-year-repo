@@ -10,6 +10,7 @@
     background-size: cover;
     height: 1000px;
     
+    
 
 }
 
@@ -183,10 +184,8 @@
     height: 300px;
     left: 230px;
     top: 2216.3px;
-    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
     border-radius: 8px;
-    background-image: url('../images/watch.png');
-
+    background-image: linear-gradient(#ff00000d,blue), url(../images/watch.png);
 }
 
 .section2 {
@@ -269,5 +268,4 @@ textarea {
     border-radius: 5px;
     border: 0;
     margin-left: 0px;
-     
 }
