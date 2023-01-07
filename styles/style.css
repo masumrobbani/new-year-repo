@@ -9,18 +9,14 @@
     background-image: url('../images/banner/banner2.png');
     background-size: cover;
     height: 1000px;
-    position: fixed;
-
-}
-
-.text{
     
-    position: fixed;
+
 }
+
 
 .banner {
     text-align: right;
-    float: left;
+    
 
 }
 
@@ -77,7 +73,6 @@
     display: flex;
     justify-content: space-around;
     height: 300px;
-    float: left;
     padding-left: 100px;
 }
 
